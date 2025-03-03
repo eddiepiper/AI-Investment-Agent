@@ -7,7 +7,6 @@ This project is an **AI-powered RAG (Retrieval-Augmented Generation) system** de
 ✅ **Financial Document Retrieval** – Uses FAISS to store and search investment reports.  
 ✅ **AI-Powered Investment Q&A** – Answers investment-related questions based on retrieved content.  
 ✅ **Market Insights Summarization** – Extracts key insights from financial news and reports.  
-✅ **Interactive Research Assistant** – Streamlit-based UI for an intuitive experience.  
 
 ## 📂 Project Structure
 ```

@@ -48,7 +48,7 @@ python3 main.py
 Feel free to fork this repository, suggest improvements, and submit pull requests. 
 
 ## 📢 Contact
-If you have any questions, reach out via [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) or GitHub Issues.
+If you have any questions, reach out via [LinkedIn](linkedin.com/in/edwardchiangwh) or GitHub Issues.
 
 ---
 💡 **Built to showcase AI-driven investment research in banking!** 🚀

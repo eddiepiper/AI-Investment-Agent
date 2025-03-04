@@ -20,20 +20,24 @@ This project is an **AI-powered RAG (Retrieval-Augmented Generation) system** de
 ```
 
 ## 🛠️ Installation & Setup
-### 1️⃣ Clone the Repository
+### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/RAG-Banking-Investment-Agent.git
-cd RAG-Banking-Investment-Agent
+git clone [https://github.com/eddiepiper/AI-Investment-Agent.git]
+cd /neximus/ai_agent_tutorials/ai_investment_agent_team/
 ```
-### 2️⃣ Install Dependencies
+### 2️. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-### 3️⃣ Run the Banking Investment Research Agent
+### 3. Get your OpenAI API Key
+🔹 Sign up for an OpenAI account (or the LLM provider of your choice) and obtain your API key. 
 ```bash
-python3 main.py
+export OPENAI_API_KEY='your-api-key-here'
 ```
-
+### 4.  Run the Banking Investment Research Agent
+```bash
+python3 investment_agent_team.py
+```
 ## 📊 Example Use Cases
 🔹 *“Summarize the latest earnings report of a company.”*  
 🔹 *“Retrieve key investment insights from financial documents.”*  

@@ -36,7 +36,7 @@ export OPENAI_API_KEY='your-api-key-here'
 ```
 ### 4.  Run the Banking Investment Research Agent
 ```bash
-python3 investment_agent_team.py
+python3 finance_agent_team.py
 ```
 ## 📊 Example Use Cases
 🔹 *“Summarize the latest earnings report of a company.”*  
